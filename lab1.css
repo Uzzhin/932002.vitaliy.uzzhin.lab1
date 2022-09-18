@@ -1,4 +1,4 @@
-table
+            table
             {
                 float: right; 
                 padding: 2px; 
@@ -47,7 +47,7 @@ table
                 color: white;
                 align-self: center;
                 height: 32%;
-                 width: 29%;
+                width: 44%;
                 font-family: Helvetica;
             }
             a
